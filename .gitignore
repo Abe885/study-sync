@@ -1,0 +1,17 @@
+# System files
+.DS_Store             # macOS system files
+Thumbs.db             # Windows image cache files
+
+# IDE configurations
+.idea/                # JetBrains IDE 
+.vscode/              # VSCode settings
+*.iml                 # IntelliJ IDEA project files
+
+# Logs and environment files
+*.log                 # Log files (frontend & backend)
+*.env                 # Environment variable files
+
+# npm debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
